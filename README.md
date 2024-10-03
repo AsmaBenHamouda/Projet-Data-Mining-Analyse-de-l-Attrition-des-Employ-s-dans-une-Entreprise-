@@ -32,7 +32,7 @@ Nous disposons d'un jeu de données riche, comprenant 35 variables et 1 470 enre
 Et bien d'autres variables influençant l'attrition.
 
 
-3️⃣ Nettoyage des Données 🧹
+## 3️⃣ Nettoyage des Données 🧹
 Après une exploration minutieuse, nous avons filtré les données pour ne conserver que 1 470 lignes et 31 colonnes utiles.
 Suppression des données redondantes et gestion des valeurs manquantes.
 Conversion de certaines variables en format catégoriel pour une analyse plus pertinente.
@@ -60,7 +60,7 @@ Le salaire mensuel, les années d'expérience, et les déplacements professionne
 
 Les heures supplémentaires et la distance domicile-travail sont parmi les facteurs ayant l'impact le plus fort.
 
-### 🏁 Conclusion Finale
+## 🏁 Conclusion Finale
 Pour réduire l'attrition, l'entreprise doit améliorer la satisfaction au travail, favoriser l'engagement des employés, et créer des opportunités de développement professionnel. Des stratégies spécifiques selon les départements, rôles, et facteurs individuels seront nécessaires pour améliorer la rétention globale des talents. 🌟
 
 
