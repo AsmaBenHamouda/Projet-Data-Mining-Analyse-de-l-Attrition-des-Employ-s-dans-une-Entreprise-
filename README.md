@@ -1,12 +1,12 @@
-🚀 Analyse de l'Attrition des Employés dans une Entreprise 💼
+# 🚀 Analyse de l'Attrition des Employés dans une Entreprise 💼
 Dans un marché du travail en constante évolution, la rétention des employés est essentielle à la stabilité et au succès des entreprises. Ce projet vise à analyser l'attrition des employés en examinant divers facteurs à partir de données RH. En identifiant les variables les plus influentes, nous pouvons aider les entreprises à améliorer la rétention des talents et rester compétitives.
 
-📊 Étapes du Projet :
-1️⃣ Importation des Packages et Dataset 📦
+## 📊 Étapes du Projet :
+## 1️⃣ Importation des Packages et Dataset 📦
 Mise en place des outils nécessaires pour l'analyse des données.
-2️⃣ Exploration des Données 🔍
+## 2️⃣ Exploration des Données 🔍
 Étude initiale des caractéristiques des employés pour détecter des tendances intéressantes.
-🗃️ À propos des Données
+### 🗃️ À propos des Données
 Nous disposons d'un jeu de données riche, comprenant 35 variables et 1 470 enregistrements d'employés. Voici quelques-unes des variables clés :
 
 👵 Age : Âge en années
@@ -25,10 +25,10 @@ Et bien d'autres variables influençant l'attrition.
 Après une exploration minutieuse, nous avons filtré les données pour ne conserver que 1 470 lignes et 31 colonnes utiles.
 Suppression des données redondantes et gestion des valeurs manquantes.
 Conversion de certaines variables en format catégoriel pour une analyse plus pertinente.
-4️⃣ Analyse Exploratoire des Données 📈
+## 4️⃣ Analyse Exploratoire des Données 📈
 Nous avons classé les colonnes en 5 groupes, chacun révélant des insights uniques sur l'attrition des employés.
 
-📊 Résumé des Conclusions :
+## 📊 Résumé des Conclusions :
 🏢 1. Département et Rôle :
 Les Ressources Humaines et les Ventes ont les taux d'attrition les plus élevés, avec des rôles comme les représentants des ventes et techniciens de laboratoire en première ligne.
 🧑‍💼 2. Niveau de Poste :
